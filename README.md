@@ -6,13 +6,11 @@
 &nbsp;
 <a href="https://www.instagram.com/_mayur_75/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayur-dhamgunde" height="30" width="40" /></a>
 &nbsp;
-<a href="https://leetcode.com/mayurdhamgunde/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aswin26barath" height="30" width="40" /></a>
+<a href="https://leetcode.com/mayurdhamgunde/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mayurdhamgunde" height="30" width="40" /></a>
+&nbsp;
+<a href="https://stackoverflow.com/users/21095126/mayur1402" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13064312" height="30" width="40" /></a>
 &nbsp;
 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ## Glad to see you here! &nbsp; 
 
 I am a full-stack software developer and a passionate B.Tech student majoring in Computer Technology,
