@@ -7,7 +7,7 @@
 <a href="https://www.instagram.com/_mayur_75/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayur-dhamgunde" height="30" width="40" /></a>
 &nbsp;
 
-## Glad to see you here! &nbsp; ![visitors]
+## Glad to see you here! &nbsp; 
 
 
 <!--
