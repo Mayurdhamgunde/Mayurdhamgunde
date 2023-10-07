@@ -17,6 +17,7 @@ with a deep love for both web and software development.
 
 I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world.
 
+[![An image of @mayurdhamgunde's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mayurdhamgunde)](https://holopin.io/@mayurdhamgunde)
 
 ### Talking about Personal Stuffs:
 
@@ -41,4 +42,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![An image of @mayurdhamgunde's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mayurdhamgunde)](https://holopin.io/@mayurdhamgunde)
+
