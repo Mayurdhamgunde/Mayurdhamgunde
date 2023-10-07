@@ -4,7 +4,8 @@
 &nbsp;
 <a href="https://twitter.com/_mayur_075" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mayur-dhamgunde" height="30" width="40" /></a>
 &nbsp;
-
+<a href="https://www.instagram.com/_mayur_75/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayur-dhamgunde" height="30" width="40" /></a>
+&nbsp;
 <!--
 **Mayurdhamgunde/Mayurdhamgunde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
