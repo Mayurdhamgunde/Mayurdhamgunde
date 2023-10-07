@@ -7,6 +7,8 @@
 <a href="https://www.instagram.com/_mayur_75/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayur-dhamgunde" height="30" width="40" /></a>
 &nbsp;
 
+
+
 ## Glad to see you here! &nbsp; 
 
 I am a full-stack software developer and a passionate B.Tech student majoring in Computer Technology,
@@ -16,6 +18,12 @@ with a deep love for both web and software development.
 I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world.
 
 
+### Talking about Personal Stuffs:
+
+- 🔭 I’m currently working on **Full Stack Web Development**
+- 🌱 I'm currently learning:
+  - Data Structures and Algorithms on [LeetCode](https://leetcode.com/mayurdhamgunde/)
+  - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> ecosystem
 <!--
 **Mayurdhamgunde/Mayurdhamgunde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
