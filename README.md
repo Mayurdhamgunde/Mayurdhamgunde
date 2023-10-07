@@ -21,9 +21,12 @@ I enjoy using my obsessive attention to detail, my unequivocal love for making t
 ### Talking about Personal Stuffs:
 
 - 🔭 I’m currently working on **Full Stack Web Development**
+- 🔍 I’m looking to collaborate on <strong>Front-End Web Dev Projects</strong>
 - 🌱 I'm currently learning:
   - Data Structures and Algorithms on [LeetCode](https://leetcode.com/mayurdhamgunde/)
   - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> ecosystem
+- 💬 Ask me about anything, I am happy to help
+- 📬 How to reach me: [mayurdhamgunde@gmail.com](mailto:mayurdhamgunde@gmail.com)
 <!--
 **Mayurdhamgunde/Mayurdhamgunde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
