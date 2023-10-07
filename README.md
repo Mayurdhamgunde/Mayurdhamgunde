@@ -9,6 +9,12 @@
 
 ## Glad to see you here! &nbsp; 
 
+I am a full-stack software developer and a passionate B.Tech student majoring in Computer Technology,
+
+with a deep love for both web and software development.
+
+I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world.
+
 
 <!--
 **Mayurdhamgunde/Mayurdhamgunde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
