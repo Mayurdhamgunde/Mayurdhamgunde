@@ -1,5 +1,8 @@
 # Welcome to [Mayur's](https://mayurdhamgunde.me/) profile! <a href="https://www.mayurdhamgunde.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
+<a href="[https://www.linkedin.com/in/aswin-barath/](https://www.linkedin.com/in/mayur-dhamgunde-94b9ab226/)" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="30" width="40" /></a>
+&nbsp;
+
 <!--
 **Mayurdhamgunde/Mayurdhamgunde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
