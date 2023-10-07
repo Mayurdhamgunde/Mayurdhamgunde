@@ -27,6 +27,7 @@ I enjoy using my obsessive attention to detail, my unequivocal love for making t
   - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> ecosystem
 - 💬 Ask me about anything, I am happy to help
 - 📬 How to reach me: [mayurdhamgunde@gmail.com](mailto:mayurdhamgunde@gmail.com)
+- 📝 [Resume](https://drive.google.com/file/d/1eVEpS_Pw4Ra01l6Kz8tXwq71AqJ7jv2Z/view?usp=sharing) .
 <!--
 **Mayurdhamgunde/Mayurdhamgunde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
