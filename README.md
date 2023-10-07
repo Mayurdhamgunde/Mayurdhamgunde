@@ -21,8 +21,7 @@ with a deep love for both web and software development.
 
 I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world.
 
-<br>
-<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="350" height="280" />
+<img align="right" alt="GIF" src="https://github.com/Mayurdhamgunde/Mayurdhamgunde/blob/main/coding.gif?raw=true" width="350" height="280" />
 
 
 ### Talking about Personal Stuffs:
