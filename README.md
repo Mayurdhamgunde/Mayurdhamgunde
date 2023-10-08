@@ -13,7 +13,7 @@
 <a href="https://www.hackerrank.com/mayurdhamgunde" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mayurhackerrank" height="30" width="40" /></a>
 &nbsp;
 
-## Glad to see you here! &nbsp; 
+<h2> Glad to see you here!</h2> &nbsp; 
 
 I am a full-stack software developer and a passionate B.Tech student majoring in Computer Technology ,
 
