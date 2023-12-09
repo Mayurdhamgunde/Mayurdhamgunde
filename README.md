@@ -21,7 +21,7 @@ with a deep love for both web and software development.
 
 I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world.
 
-<img align="right" alt="GIF" src="https://github.com/Mayurdhamgunde/Mayurdhamgunde/blob/main/work.gif?raw=true" width="415" height="250" />
+<img align="right" alt="GIF" src="https://github.com/Mayurdhamgunde/Mayurdhamgunde/blob/main/work.gif?raw=true" width="405" height="250" />
 
 
 ### Talking about Personal Stuffs:
