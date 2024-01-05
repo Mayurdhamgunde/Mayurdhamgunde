@@ -36,7 +36,7 @@ I enjoy using my obsessive attention to detail, my unequivocal love for making t
 - 📬 How to reach me: [mayurdhamgunde@gmail.com](mailto:mayurdhamgunde@gmail.com)
 &nbsp;
 
----
+<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif" border="0" alt="animated-line-image-0015" width="100%"/></a>
 
 ## 🛠️ My favorite tools
 
