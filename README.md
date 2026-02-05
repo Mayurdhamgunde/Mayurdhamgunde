@@ -11,9 +11,7 @@
 <a href="https://stackoverflow.com/users/21095126/mayur1402" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13064312" height="30" width="40" /></a>
 &nbsp;
 <a href="https://www.hackerrank.com/mayurdhamgunde" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mayurhackerrank" height="30" width="40" /></a>
-&nbsp;
-
-<h2> Glad to see you here!</h2> &nbsp; 
+&nbsp; 
 <h3>👋 Hi, I’m Mayur</h3>
 
 Software Engineer | Full-Stack & React Native Developer  
