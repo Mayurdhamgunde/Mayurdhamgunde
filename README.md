@@ -14,8 +14,7 @@
 &nbsp;
 
 <h2> Glad to see you here!</h2> &nbsp; 
-
-👋 Hi, I’m Mayur
+<h3>👋 Hi, I’m Mayur</h3>
 
 Software Engineer | Full-Stack & React Native Developer  
 Open-source contributor | GSoC 2027 aspirant  
@@ -26,14 +25,12 @@ to open-source projects in the React and backend ecosystem.
 <img align="right" alt="GIF" src="https://github.com/Mayurdhamgunde/Mayurdhamgunde/blob/main/work.gif?raw=true" width="405" height="250" />
 
 
-### Talking about Personal Stuffs:
+### 🔧 What I Work On:
 
-- 🔭 I’m currently working on **Full Stack Web Development**
-- 🔍 I’m looking to collaborate on <strong>Front-End Web Dev Projects</strong>
-- 🌱 I'm currently learning:
-  - Data Structures and Algorithms on [LeetCode](https://leetcode.com/mayurdhamgunde/)
-  - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> ecosystem
-- 💬 Ask me about anything, I am happy to help
+- 🔭 Full-stack web and mobile development
+- 🔍 React, React Native, TypeScript, Node.js
+- 🌱 Building and maintaining production-ready applications
+- 💬 Contributing to open-source projects
 - 📝 [Resume](https://drive.google.com/file/d/1XVJT-hBB6TVGUemGFR-7HB4KmwjQnuJp/view) .
 - 📬 How to reach me: [mayurdhamgunde@gmail.com](mailto:mayurdhamgunde@gmail.com)
 &nbsp;
