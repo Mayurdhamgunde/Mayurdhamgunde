@@ -15,11 +15,13 @@
 
 <h2> Glad to see you here!</h2> &nbsp; 
 
-I am a full-stack software developer and a passionate B.Tech student majoring in Computer Technology ,
+👋 Hi, I’m Mayur
 
-with a deep love for both web and software development.
+Software Engineer | Full-Stack & React Native Developer  
+Open-source contributor | GSoC 2027 aspirant  
 
-I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world.
+I build scalable web and mobile applications and actively contribute
+to open-source projects in the React and backend ecosystem.
 
 <img align="right" alt="GIF" src="https://github.com/Mayurdhamgunde/Mayurdhamgunde/blob/main/work.gif?raw=true" width="405" height="250" />
 
