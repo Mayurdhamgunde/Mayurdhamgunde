@@ -34,6 +34,15 @@ to open-source projects in the React and backend ecosystem.
 &nbsp;
 
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif" border="0" alt="animated-line-image-0015" width="100%"/></a>
+## 🚀 Featured Projects
+- **OpenD – NFT Marketplace**  
+  Decentralized NFT marketplace built on DFINITY Internet Computer using Motoko.
+
+- **ConcrefyAI**  
+  Machine learning model to predict concrete strength and optimize construction costs.
+
+- **Gymotion**  
+  Responsive fitness web platform built with React and TypeScript.
 
 ## 🛠️ My favorite tools
 
