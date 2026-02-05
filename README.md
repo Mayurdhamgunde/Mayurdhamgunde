@@ -25,10 +25,10 @@ to open-source projects in the React and backend ecosystem.
 
 ### 🔧 What I Work On:
 
-- 🔭 Full-stack web and mobile development
-- 🔍 React, React Native, TypeScript, Node.js
-- 🌱 Building and maintaining production-ready applications
-- 💬 Contributing to open-source projects
+- 🧱 Full-stack web and mobile development
+- ⚛️ React, React Native, TypeScript, Node.js
+- 🚀 Building and maintaining production-ready applications
+- 🤝 Contributing to open-source projects
 - 📝 [Resume](https://drive.google.com/file/d/1XVJT-hBB6TVGUemGFR-7HB4KmwjQnuJp/view) .
 - 📬 How to reach me: [mayurdhamgunde@gmail.com](mailto:mayurdhamgunde@gmail.com)
 &nbsp;
