@@ -1,17 +1,25 @@
 # Welcome to [Mayur's](https://mayurdhamgunde.me/) profile! <a href="https://www.mayurdhamgunde.me/"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<a href="https://www.linkedin.com/in/mayur-dhamgunde-94b9ab226/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayur-dhamgunde" height="30" width="40" /></a>
-&nbsp;
-<a href="https://twitter.com/_mayur_075" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mayur-dhamgunde" height="30" width="40" /></a>
-&nbsp;
-<a href="https://www.instagram.com/_mayur_75/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayur-dhamgunde" height="30" width="40" /></a>
-&nbsp;
-<a href="https://leetcode.com/mayurdhamgunde/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mayurdhamgunde" height="30" width="40" /></a>
-&nbsp;
-<a href="https://stackoverflow.com/users/21095126/mayur1402" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13064312" height="30" width="40" /></a>
-&nbsp;
-<a href="https://www.hackerrank.com/mayurdhamgunde" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mayurhackerrank" height="30" width="40" /></a>
-&nbsp; 
+<p align="left">
+  <a href="https://www.linkedin.com/in/mayur-dhamgunde-94b9ab226/" target="_blank" style="display:inline-block;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+  </a>
+  <a href="https://twitter.com/_mayur_075" target="_blank" style="display:inline-block;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
+  </a>
+  <a href="https://www.instagram.com/_mayur_75/" target="_blank" style="display:inline-block;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+  </a>
+  <a href="https://leetcode.com/mayurdhamgunde/" target="_blank" style="display:inline-block;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
+  </a>
+  <a href="https://stackoverflow.com/users/21095126/mayur1402" target="_blank" style="display:inline-block;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40"/>
+  </a>
+  <a href="https://www.hackerrank.com/mayurdhamgunde" target="_blank" style="display:inline-block;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"/>
+  </a>
+</p>
 <h3>👋 Hi, I’m Mayur</h3>
 
 Software Engineer | Full-Stack & React Native Developer  
