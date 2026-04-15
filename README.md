@@ -1,6 +1,6 @@
-<h1>
-Welcome to [Mayur's](https://mayurdhamgunde.me/) profile! <a href="https://www.mayurdhamgunde.me/"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-</h1>
+
+# Welcome to [Mayur's](https://mayurdhamgunde.me/) profile! <a href="https://www.mayurdhamgunde.me/"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mayur-dhamgunde-94b9ab226/" target="_blank" style="display:inline-block;">
